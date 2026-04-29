@@ -13,8 +13,11 @@ to creating a brand that speaks Gen Z’s language…
 I’m on a journey to turn ideas into experiences.
 
 🧠 Currently diving deep into AI/ML + DSA
+
 🚀 Obsessed with creating products that people actually use
+
 🎯 Long-term goal: Become an AI Engineer who builds meaningful systems
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/katyanireddy) 
